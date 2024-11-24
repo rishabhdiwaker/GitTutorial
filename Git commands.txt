@@ -1,0 +1,22 @@
+git init
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+
+$ git commit -m "first commit"
+git branch -M main
+
+git status
+
+git add .
+
+git commit 
+
+git checkout main/NewGr - to switch the branch
+
+git branch NewBr2 - will follow the tree strucutre
+
+git push -u origin main
+
+git merge NewBr
